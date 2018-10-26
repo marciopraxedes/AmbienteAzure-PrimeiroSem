@@ -1,0 +1,56 @@
+@charset "UTF-8";
+
+
+/*Fundo da página*/
+
+html 
+{
+    background-color: rgb(197, 196, 196);
+}
+
+/* Fonte do documento todo */
+body
+{
+    font-family: Arial;
+}
+
+/* Título principal  */
+h1
+{
+    color:rgb(8, 121, 136);
+    font-size: 30px;
+    font-weight: bold;
+}
+
+h2
+{
+    color:rgb(8, 121, 136);
+    font-size: 25px;
+    font-weight: bold;
+}
+
+h3
+{
+    color:rgb(8, 121, 136);
+    font-size: 20px;
+    font-weight: bold;  
+}
+
+body
+{
+    color: black;
+    text-align: center;
+}
+
+#ceduc
+{
+    
+}
+
+.foto_perfil
+{
+    border-style: solid;
+    border-image: 1%;
+    border-color: grey;
+    transform: rotate(90deg);
+    margin: 1% 1% 2%;
